@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "lemolab": {
+      "source": {
+        "source": "github",
+        "repo": "codes3506-bit/lemo-opuscar"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "lemo-opuscar@lemolab": true
+  }
+}
